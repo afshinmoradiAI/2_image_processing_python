@@ -4,16 +4,13 @@ This repository contains a Python script for quality control and normalization o
 
 **Table of Contents**
 
-Introduction
-Features
-Installation
-Usage
-Requirements
-Contributing
-License
-Acknowledgments
-
-
+- Introduction
+- Features
+- Installation
+- Usage
+- Requirements
+- Contributing
+- License
 
 **Introduction**
 
