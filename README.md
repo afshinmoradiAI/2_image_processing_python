@@ -13,14 +13,16 @@ Contributing
 License
 Acknowledgments
 
+
+
 Introduction
 
 The 1_QC_normalization_image.py script provides functionality for performing quality control and normalization on a set of images. This is crucial in ensuring that all images are standardized and suitable for subsequent processing steps, such as feature extraction or model training.
 Features
 
-    Quality Control: Checks the images for quality issues and flags those that do not meet specified criteria.
-    Normalization: Normalizes image data to ensure consistency across the dataset.
-    Logging: Provides detailed logging of the processing steps for traceability.
+Quality Control: Checks the images for quality issues and flags those that do not meet specified criteria.
+Normalization: Normalizes image data to ensure consistency across the dataset.
+Logging: Provides detailed logging of the processing steps for traceability.
 
 Installation
 
