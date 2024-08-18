@@ -15,7 +15,7 @@ Acknowledgments
 
 
 
-Introduction
+**Introduction**
 
 The 1_QC_normalization_image.py script provides functionality for performing quality control and normalization on a set of images. This is crucial in ensuring that all images are standardized and suitable for subsequent processing steps, such as feature extraction or model training.
 Features
@@ -25,7 +25,7 @@ Normalization: Normalizes image data to ensure consistency across the dataset.
 Logging: Provides detailed logging of the processing steps for traceability.
 
 
-Installation
+**Installation**
 ```
 git clone https://github.com/your-username/image-processing.git
 cd image-processing
@@ -33,7 +33,7 @@ pip install -r requirements.txt
 ```
 
 
-Usage
+**Usage**
 Once the dependencies are installed, you can run the script by executing the following command:
 ```
 python 1_QC_normalization_image.py --input_path /path/to/images --output_path /path/to/output
@@ -44,7 +44,7 @@ Command Line Arguments
 
 
 
-Requirements
+**Requirements**
     Python 3.8+
     Required Python packages (listed in requirements.txt)
 
