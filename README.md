@@ -3,16 +3,15 @@ Image Processing
 This repository contains a Python script for quality control and normalization of Fusion images. The script is designed to preprocess images and ensure that they meet the required standards before further analysis.
 
 Table of Contents
-    Introduction
-    Features
-    Installation
-    Usage
-    Requirements
-    Contributing
-    License
-    Acknowledgments
 
-
+Introduction
+Features
+Installation
+Usage
+Requirements
+Contributing
+License
+Acknowledgments
 
 Introduction
 
