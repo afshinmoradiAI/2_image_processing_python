@@ -33,7 +33,8 @@ pip install -r requirements.txt
 **Usage**
 Once the dependencies are installed, you can run the script by executing the following command:
 ```
-python 1_QC_normalization_image.py --input_path /path/to/images --output_path /path/to/output
+python 1_QC_normalization_image.py --input data/input_data.csv --output results/processed_data.h5ad --exclude_core Core1,Core2 --exclude_marker Marker1,Marker2
+
 ```
 Command Line Arguments
     --input_path: The directory containing the images to be processed.
