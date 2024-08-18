@@ -26,11 +26,11 @@ Installation
 To use this script, you'll need to clone the repository and install the necessary dependencies.
 
 bash
-
+'''
 git clone https://github.com/your-username/image-processing.git
 cd image-processing
 pip install -r requirements.txt
-
+'''
 Usage
 
 Once the dependencies are installed, you can run the script by executing the following command:
