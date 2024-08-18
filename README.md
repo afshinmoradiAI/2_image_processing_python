@@ -24,37 +24,33 @@ Quality Control: Checks the images for quality issues and flags those that do no
 Normalization: Normalizes image data to ensure consistency across the dataset.
 Logging: Provides detailed logging of the processing steps for traceability.
 
+
 Installation
-
-To use this script, you'll need to clone the repository and install the necessary dependencies.
-
-bash
 ```
 git clone https://github.com/your-username/image-processing.git
 cd image-processing
 pip install -r requirements.txt
 ```
+
+
 Usage
-
 Once the dependencies are installed, you can run the script by executing the following command:
-
-bash
 ```
 python 1_QC_normalization_image.py --input_path /path/to/images --output_path /path/to/output
 ```
-
-
 Command Line Arguments
     --input_path: The directory containing the images to be processed.
     --output_path: The directory where the processed images will be saved.
+
+
 
 Requirements
     Python 3.8+
     Required Python packages (listed in requirements.txt)
 
-To install the necessary packages, use:
 
-bash
+
+To install the necessary packages, use:
 ```
 pip install -r requirements.txt
 ```
