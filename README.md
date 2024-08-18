@@ -2,7 +2,6 @@ Image Processing
 
 This repository contains a Python script for quality control and normalization of Fusion images. The script is designed to preprocess images and ensure that they meet the required standards before further analysis.
 
-
 Table of Contents
 
     Introduction
@@ -13,6 +12,8 @@ Table of Contents
     Contributing
     License
     Acknowledgments
+
+
 
 Introduction
 
@@ -38,22 +39,22 @@ Usage
 Once the dependencies are installed, you can run the script by executing the following command:
 
 bash
-
+```
 python 1_QC_normalization_image.py --input_path /path/to/images --output_path /path/to/output
+```
+
 
 Command Line Arguments
-
     --input_path: The directory containing the images to be processed.
     --output_path: The directory where the processed images will be saved.
 
 Requirements
-
     Python 3.8+
     Required Python packages (listed in requirements.txt)
 
 To install the necessary packages, use:
 
 bash
-
+```
 pip install -r requirements.txt
-
+```
